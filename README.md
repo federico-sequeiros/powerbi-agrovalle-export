@@ -17,7 +17,7 @@ The director of CENUEX, the walnut exporters' chamber, needed a report to presen
 ## Screenshots
 | Cover | Market and CENUEX |
 |---|---|
-| ![Cover](01-cover.png) | ![CENUEX](images/03-CENUEX.png) |
+| ![Cover](images/01-cover.png) | ![CENUEX](images/03-CENUEX.png) |
 
 
 ## How to open it
