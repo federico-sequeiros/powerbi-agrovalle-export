@@ -15,7 +15,7 @@ The director of CENUEX, the walnut exporters' chamber, needed a report to presen
 - **Add a validation step to that extraction:** check every member's extracted totals against the totals in their original file, so automation doesn't introduce silent errors.
 
 ## Screenshots
-| Cover | Households & products |
+| Cover | Market and CENUEX |
 |---|---|
 | ![Cover](01-cover.png) | ![CENUEX](images/03-CENUEX.png) |
 
