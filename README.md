@@ -13,3 +13,15 @@ The director of CENUEX, the walnut exporters' chamber, needed a report to presen
 - **Modernize the report's look and navigation:** cleaner KPI cards and page navigation built for a quicker read.
 - **Automate the ETL with an AI agent:** with so many senders and formats, an agent could extract the data from every Excel and PDF into a single flat file, ready for Power Query, instead of preparing each source by hand.
 - **Add a validation step to that extraction:** check every member's extracted totals against the totals in their original file, so automation doesn't introduce silent errors.
+
+## Screenshots
+| Cover | Households & products |
+|---|---|
+| ![Cover](01-cover.png) | ![CENUEX](images/03-CENUEX.png) |
+
+
+## How to open it
+Download [`report/agrovalle-export.pbix`](report/agrovalle-export.pbix) and open it with [Power BI Desktop](https://www.microsoft.com/power-platform/products/power-bi/desktop) (free, Windows).
+
+## Author
+**Federico Sequeiros** · BI Developer · [LinkedIn](https://www.linkedin.com/in/federico-sequeiros)
